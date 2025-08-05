@@ -60,17 +60,6 @@ php artisan serve
 
 ---
 
-## 📌 Fitur Mendatang (Rencana)
-
-- 🔑 Enkripsi end-to-end (AES256)
-- 📱 QR Code untuk akses cepat
-- 📆 Sinkronisasi dengan Google Calendar
-- 🕵️ Mode incognito: auto-hapus 30 detik
-- 📊 Statistik catatan
-- 🛠️ Backup & restore catatan (admin)
-
----
-
 ## 🌐 Proyek Tambahan (Wacana)
 
 - 🔗 **ShortLink Pro** – pemendek URL + statistik
