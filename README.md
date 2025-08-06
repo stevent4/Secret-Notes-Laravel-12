@@ -60,17 +60,6 @@ php artisan serve
 
 ---
 
-## 🌐 Proyek Tambahan (Wacana)
-
-- 🔗 **ShortLink Pro** – pemendek URL + statistik
-- 📋 **SimplePaste** – paste kode/tempel teks aman
-- 📤 **FileDrop** – kirim file 1 arah + password
-- 🧾 **NotaKu** – catatan pribadi + PDF ekspor
-- 📮 **Inbox Dummy** – email testing tanpa login
-- 🔐 **PasswordBox** – penyimpan password sementara
-
----
-
 ## 👨‍💻 Tentang Developer
 
 Created by **Stevent**, pengembang web yang fokus pada privasi, keamanan informasi, dan produktivitas digital.
